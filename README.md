@@ -1,2 +1,7 @@
 # are-we-elm-yet
-Are we ___ for Elm
+
+| Are we ___ | Status | Notes |
+| ---------- | ------ | ----- |
+| Game       | ⚠️     |       |
+| Production | ✅     |       |
+| Server     | ❌     |       |
